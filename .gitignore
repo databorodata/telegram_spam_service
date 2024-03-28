@@ -1,0 +1,7 @@
+.idea/
+.git/
+env/
+__pycache__/
+config.py
+main.py
+requirements.txt
